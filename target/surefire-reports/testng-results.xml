@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="covid-19" duration-ms="40990" started-at="2020-05-15T20:49:00Z" finished-at="2020-05-15T20:49:41Z">
+    <groups>
+    </groups>
+    <test name="Validate all covid-19 test cases" duration-ms="40990" started-at="2020-05-15T20:49:00Z" finished-at="2020-05-15T20:49:41Z">
+      <class name="covid21.Test3">
+        <test-method status="PASS" signature="add()[pri:0, instance:covid21.Test3@735f7ae5]" name="add" duration-ms="1" started-at="2020-05-15T20:49:41Z" finished-at="2020-05-15T20:49:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="multiply()[pri:0, instance:covid21.Test3@735f7ae5]" name="multiply" duration-ms="1" started-at="2020-05-15T20:49:41Z" finished-at="2020-05-15T20:49:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiply -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:covid21.Test3@735f7ae5]" name="sub" duration-ms="0" started-at="2020-05-15T20:49:41Z" finished-at="2020-05-15T20:49:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- covid21.Test3 -->
+      <class name="com.covid20.Test2">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.covid20.Test2@17550481]" name="login" is-config="true" duration-ms="9667" started-at="2020-05-15T20:49:26Z" finished-at="2020-05-15T20:49:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login2()[pri:0, instance:com.covid20.Test2@17550481]" name="login2" duration-ms="3555" started-at="2020-05-15T20:49:36Z" finished-at="2020-05-15T20:49:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login2 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.covid20.Test2@17550481]" name="teardown" is-config="true" duration-ms="1100" started-at="2020-05-15T20:49:39Z" finished-at="2020-05-15T20:49:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.covid20.Test2 -->
+      <class name="com.covid.Test1">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.covid.Test1@783e6358]" name="login" is-config="true" duration-ms="9895" started-at="2020-05-15T20:49:00Z" finished-at="2020-05-15T20:49:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login1()[pri:0, instance:com.covid.Test1@783e6358]" name="login1" duration-ms="35" started-at="2020-05-15T20:49:09Z" finished-at="2020-05-15T20:49:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.covid.Test1@783e6358]" name="teardown" is-config="true" duration-ms="1402" started-at="2020-05-15T20:49:09Z" finished-at="2020-05-15T20:49:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.covid.Test1@783e6358]" name="login" is-config="true" duration-ms="9367" started-at="2020-05-15T20:49:11Z" finished-at="2020-05-15T20:49:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login2()[pri:0, instance:com.covid.Test1@783e6358]" name="login2" duration-ms="4907" started-at="2020-05-15T20:49:20Z" finished-at="2020-05-15T20:49:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login2 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.covid.Test1@783e6358]" name="teardown" is-config="true" duration-ms="1020" started-at="2020-05-15T20:49:25Z" finished-at="2020-05-15T20:49:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.covid.Test1 -->
+    </test> <!-- Validate all covid-19 test cases -->
+  </suite> <!-- covid-19 -->
+</testng-results>

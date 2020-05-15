@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="covid-19" >
+<test name="Validate all covid-19 test cases" >
+
+<!-- <packages>
+<package name="com.covid.*" />
+<package name="com.covid20.*" />
+<package name="com.covid21.*" />
+</packages> -->
+
+<classes>
+	<class  name= "com.covid.Test1" />
+	<class  name= "com.covid20.Test2" />
+	<class  name= "covid21.Test3" />
+</classes>
+
+
+
+
+</test>
+</suite>
